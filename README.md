@@ -25,7 +25,7 @@ $ npm i @ver5/domm
 [<img src="https://www.npmjs.com/static/images/runkit.svg" width=24 align=top> __Try out Døm in your browser__](https://runkit.com/npm/doem)
 
 ```js
-import {find, html, [...]} from 'doem';
+import {find, html, [...]} from '@ver5/domm';
 
 const el = find(document, '.foo');
 html(el, 'Hello World!');
