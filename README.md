@@ -1,4 +1,4 @@
-# Døm
+# Domm
 
 > A functional DOM traversal and manipulation library for modern browsers
 
@@ -17,7 +17,7 @@ Døm was born out of the need of a minimal set of functional-style DOM utilities
 ## Installation
 
 ```sh
-$ yarn add doem
+$ npm i @ver5/domm
 ```
 
 ## Usage
